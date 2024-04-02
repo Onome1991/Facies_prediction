@@ -1,5 +1,5 @@
 # Facies_prediction
-Employ SVM classifiers for the prediction of lithofacies type in Wells in the OBOM field Niger Delta
+Employ SVM, RF, KNN classifiers for the prediction of lithofacies type in Wells in the OBOM field Niger Delta
 
 
 
